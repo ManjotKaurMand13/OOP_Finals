@@ -1,0 +1,14 @@
+C:\Users\usman\source\repos\RolePlayingGame\RolePlayingGame\bin\Debug\netcoreapp3.1\RolePlayingGame.exe
+C:\Users\usman\source\repos\RolePlayingGame\RolePlayingGame\bin\Debug\netcoreapp3.1\RolePlayingGame.deps.json
+C:\Users\usman\source\repos\RolePlayingGame\RolePlayingGame\bin\Debug\netcoreapp3.1\RolePlayingGame.runtimeconfig.json
+C:\Users\usman\source\repos\RolePlayingGame\RolePlayingGame\bin\Debug\netcoreapp3.1\RolePlayingGame.runtimeconfig.dev.json
+C:\Users\usman\source\repos\RolePlayingGame\RolePlayingGame\bin\Debug\netcoreapp3.1\RolePlayingGame.dll
+C:\Users\usman\source\repos\RolePlayingGame\RolePlayingGame\bin\Debug\netcoreapp3.1\RolePlayingGame.pdb
+C:\Users\usman\source\repos\RolePlayingGame\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.csproj.AssemblyReference.cache
+C:\Users\usman\source\repos\RolePlayingGame\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usman\source\repos\RolePlayingGame\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.AssemblyInfoInputs.cache
+C:\Users\usman\source\repos\RolePlayingGame\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.AssemblyInfo.cs
+C:\Users\usman\source\repos\RolePlayingGame\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.csproj.CoreCompileInputs.cache
+C:\Users\usman\source\repos\RolePlayingGame\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.dll
+C:\Users\usman\source\repos\RolePlayingGame\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.pdb
+C:\Users\usman\source\repos\RolePlayingGame\RolePlayingGame\obj\Debug\netcoreapp3.1\RolePlayingGame.genruntimeconfig.cache

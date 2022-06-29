@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xgPiXZD1NzXU1wFeQnCNOt0etphGQbKs78NFlorm/VrwlZ9PRYVdiOmu25hSu5WDqHrFe1nqCrokOebzPfEzwg==",
+  "success": true,
+  "projectFilePath": "/Users/manjotkaurmand/Downloads/RolePlayingGame 5/RolePlayingGame/RolePlayingGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/manjotkaurmand/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/manjotkaurmand/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.26/microsoft.netcore.app.host.osx-x64.3.1.26.nupkg.sha512",
+    "/Users/manjotkaurmand/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
